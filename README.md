@@ -1,1 +1,2 @@
 # jankendon
+Mastodon上でじゃんけんゲームを行う機能についての設計
